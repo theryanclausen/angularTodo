@@ -7,7 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title:string = 'Angular To-Do';
-  constructor(){
-    console.log('nah')
-  }
+
 }

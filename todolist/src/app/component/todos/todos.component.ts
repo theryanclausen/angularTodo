@@ -23,7 +23,7 @@ export class TodosComponent implements OnInit {
       },
       {
         id: 3,
-        title: "Item a",
+        title: "Item x",
         completed: true
       },
       {
